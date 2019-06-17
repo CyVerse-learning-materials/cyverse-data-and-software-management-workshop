@@ -20,7 +20,7 @@ Upcoming Workshops
     **Rome, Italy - October 2019**
 
     **Host** University of Arkansas
-    
+
     **Location**: University of Arkansas Rome Center: Palazzo Taverna, Via di Monte Giordano,
     36 - 00186 Rome Italy.
     Each workshop will run from afternoon to afternoon (13:00 start - 12:00 finish)
@@ -100,6 +100,11 @@ Agenda
 ~~~~~~~~~~~~~~~~~~~~~
 
 **Detailed Agenda Coming Soon**
+
+*Data Management*: October 3rd - October 4th
+
+*Software Reproducibility*: October 4th - October 5th
+
 
 ----
 

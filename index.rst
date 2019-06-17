@@ -19,6 +19,8 @@ Upcoming Workshops
 
     **Rome, Italy - October 2019**
 
+    **Host** University of Arkansas
+    
     **Location**: University of Arkansas Rome Center: Palazzo Taverna, Via di Monte Giordano,
     36 - 00186 Rome Italy.
     Each workshop will run from afternoon to afternoon (13:00 start - 12:00 finish)
@@ -44,7 +46,7 @@ Upcoming Workshops
     *Coming Soon*
 
     **Questions**
-    
+
     For workshop content questions, please email Jason Williams
     (Cold Spring Harbor Laboratory, NY). Williams@cshl.edu.
 

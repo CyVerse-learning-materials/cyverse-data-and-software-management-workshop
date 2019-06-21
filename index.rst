@@ -101,9 +101,9 @@ Agenda
 
 **Detailed Agenda Coming Soon**
 
-*Data Management*: October 3rd - October 4th
+*Data Management*: October 2nd - October 3rd
 
-*Software Reproducibility*: October 4th - October 5th
+*Software Reproducibility*: October 3rd - October 4th
 
 
 ----

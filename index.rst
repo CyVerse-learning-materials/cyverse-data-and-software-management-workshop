@@ -64,13 +64,7 @@ Upcoming Workshops
              onOrderComplete: exampleCallback  // Method called when an order has successfully completed
          });
      </script>
-     </div> 
-
-
-    **Questions**
-
-    For workshop content questions, please email Jason Williams
-    (Cold Spring Harbor Laboratory, NY). Williams@cshl.edu.
+     </div>
 
 
 Audience
@@ -127,6 +121,10 @@ Agenda
 
 *Software Reproducibility*: October 3rd - October 4th
 
+**Questions**
+
+For workshop content questions, please email Jason Williams
+(Cold Spring Harbor Laboratory, NY). Williams@cshl.edu.
 
 ----
 

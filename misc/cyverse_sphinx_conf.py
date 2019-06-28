@@ -73,6 +73,7 @@ def setup(app):
     app.add_stylesheet('cyverse.css')
     #app.add_javascript('jquery.tablesorter.min.js')
     app.add_javascript('cyverse.js')
+    app.add_javascript('eventbrite.js')
     app.add_stylesheet('detail-expand.css')
     app.add_javascript('intercom-script-for-learning.js')
     app.add_javascript('detail-expand.js')

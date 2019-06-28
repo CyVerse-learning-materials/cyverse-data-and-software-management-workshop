@@ -1,4 +1,4 @@
-   <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+   <script src="eb_widgets.js"></script>
 
    <script type="text/javascript">
        var exampleCallback = function() {

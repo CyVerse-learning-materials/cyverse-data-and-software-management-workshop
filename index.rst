@@ -43,6 +43,9 @@ Upcoming Workshops
 
     **Workshop Registration**
 
+    .. raw:: html
+
+        <div id="eventbrite-widget-container-64003008722"></div>
 
 
     **Questions**

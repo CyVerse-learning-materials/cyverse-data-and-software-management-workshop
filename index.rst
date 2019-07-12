@@ -69,10 +69,16 @@ Upcoming Workshops
 
 ----
 
+.. toctree::
+	:maxdepth: 2
+
+	Worshop Homepage <self>
+
 Workshop Audiences, Learning Outcomes, and Prerequisites
 ```````````````````````````````````````````````````````````
 
-*Data Management Workshop*
+Data Management Workshop
+#########################
 
 **Audience**
 Investigators and researchers working in all areas of the life sciences.
@@ -98,6 +104,7 @@ is helpful. Attendees must bring their own Wi-Fi enabled laptop.
 
 
 *Software Reproducibility Workshop*
+######################################
 
 **Audience**
 Investigators and researchers working in all areas of the life sciences.
@@ -339,37 +346,44 @@ plan and promote future activities.
 Organizers, Content Developers, and Instructional Team, Rome 2019
 ``````````````````````````````````````````````````````````````````````
 
-**Douglas Rhoads (Host)**
-University Professor of Biological Sciences
-Director, Cell and Molecular Biology Program
-University of Arkansas
+- **Douglas Rhoads (Host)**
 
-**Allegra Via**
-Institute for Molecular Biology and Pathology,
-The National Research Council of Italy
+  University Professor of Biological Sciences
+  Director, Cell and Molecular Biology Program
+  University of Arkansas
 
-**Jason Williams**
-Assistant Director, External Collaborations
-Cold Spring Harbor Laboratory, DNA Learning Center
-CyVerse Education Outreach and Training Lead
+- **Allegra Via**
 
-**Robert Davey**
-Group Leader
-Earlham Institute
+  Institute for Molecular Biology and Pathology,
+  The National Research Council of Italy
 
-**Fotis Psomopoulos**
-Principal Investigator C' - Assistant Professor level
-INAB - Institute of Applied Biosciences
-CERTH - Center for Research and Technology Hellas
+- **Jason Williams**
+  Email (`williams@cshl.edu <mailto:williams@cshl.edu>`_)
+  Assistant Director, External Collaborations
+  Cold Spring Harbor Laboratory, DNA Learning Center
+  CyVerse Education Outreach and Training Lead
 
-**Mateusz Kuzak**
-Scientific Community Manager
-Dutch Techcentre for Life Sciences
+- **Robert Davey**
 
-**Ramona L. Walls**
-Senior Scientific Analyst, CyVerse
-Assistant Research Professor, Bio5 Institute
-University of Arizona
+  Group Leader
+  Earlham Institute
+
+- **Fotis Psomopoulos**
+
+  Principal Investigator C' - Assistant Professor level
+  INAB - Institute of Applied Biosciences
+  CERTH - Center for Research and Technology Hellas
+
+- **Mateusz Kuzak**
+
+  Scientific Community Manager
+  Dutch Techcentre for Life Sciences
+
+- **Ramona L. Walls**
+
+  Senior Scientific Analyst, CyVerse
+  Assistant Research Professor, Bio5 Institute
+  University of Arizona
 
 ----
 

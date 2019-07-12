@@ -357,6 +357,7 @@ Organizers, Content Developers, and Instructional Team, Rome 2019
   The National Research Council of Italy
 
 - **Jason Williams**
+
   Email (`williams@cshl.edu <mailto:williams@cshl.edu>`_)
   Assistant Director, External Collaborations
   Cold Spring Harbor Laboratory, DNA Learning Center

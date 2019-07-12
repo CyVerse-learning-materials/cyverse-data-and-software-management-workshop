@@ -24,7 +24,6 @@ Upcoming Workshops
 
     **Location**: University of Arkansas Rome Center: Palazzo Taverna, Via di Monte Giordano,
     36 - 00186 Rome Italy.
-    Each workshop will run from afternoon to afternoon (13:00 start - 12:00 finish)
 
     **Dates**:
 

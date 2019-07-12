@@ -68,10 +68,6 @@ Upcoming Workshops
 
 ----
 
-.. toctree::
-	:maxdepth: 2
-
-	Worshop Homepage <self>
 
 Workshop Audiences, Learning Outcomes, and Prerequisites
 ```````````````````````````````````````````````````````````

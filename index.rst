@@ -27,7 +27,7 @@ Upcoming Workshops
 
     **Dates**:
 
-    Each workshop will run from afternoon to afternoon (13:00 start - 12:00 finish)
+    Each workshop will run from afternoon to afternoon (see *Draft Agenda* below for times)
 
     - *Data Management*: October 2nd - October 3rd
     - *Software Reproducibility*: October 3rd - October 4th

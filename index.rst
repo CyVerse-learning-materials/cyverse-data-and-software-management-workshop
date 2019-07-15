@@ -79,7 +79,7 @@ Upcoming Workshops
 
     You may cancel your attendance at the workshop at any time, but full refunds
     may only be available until September 25th, 2019 (1 week prior to workshop
-    start). 
+    start).
 
 
 
@@ -137,10 +137,10 @@ At this workshop learners will:
 - Understand (and be able to create) a software management plan that benefits
   their lab and their research
 
- **Prerequisites**
- This workshop will have several labs involving use of the
- command line (Linux/Unix). Some basic command line experience is strongly
- suggested. Attendees must bring their own Wi-Fi enabled laptop.
+**Prerequisites**
+This workshop will have several labs involving use of the
+command line (Linux/Unix). Some basic command line experience is strongly
+suggested. Attendees must bring their own Wi-Fi enabled laptop.
 
 -----
 

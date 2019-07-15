@@ -11,6 +11,7 @@ research that is more impactful, open, and reproducible. Technologies covered
 feature solutions developed by publicly funded cyberinfrastructure developed in
 the US (CyVerse - www.cyverse.org) and Europe (CyVerse UK, ELIXIR, and others).
 
+
 ----
 
 Upcoming Workshops
@@ -34,10 +35,10 @@ Upcoming Workshops
 
     **Costs/Funding/Registration**:
 
-    A fee of $40 US for each workshop ($80 US total if attending both) covers the
-    use of the facility. Participants are responsible for all costs associated with
-    their attendance (travel, lodging, meals, etc.).  The workshop fee will cover
-    facility setup and administrative costs, as well as AM and PM refreshment breaks.
+    A fee of $40 US for each workshop ($80 US total if attending both) covers
+    facility setup and administrative costs, as well as AM and PM refreshment
+    breaks. Participants are responsible for all costs associated with their
+    attendance (travel, lodging, meals, etc.). The workshop fee will cover
     There will be an optional luncheon between the workshops on Thursday October
     4 at a cost of $20 US.
 
@@ -65,6 +66,24 @@ Upcoming Workshops
          });
      </script>
      </div>
+
+
+    **Cancellations**
+
+    In the event of insufficient enrollment, we reserve the right to cancel the
+    workshops. We will confirm the workshop no later than 3 weeks prior to the
+    start of the workshop (September 18th, 2019) or as soon as minimum
+    enrollment is met. We strongly encourage you not to make non-refundable
+    travel plans before you are notified the workshop is confirmed. In the event
+    of a cancellation we will only refund your registration costs.
+
+    You may cancel your attendance at the workshop at any time, but full refunds
+    may only be available until September 25th, 2019 (1 week prior to workshop
+    start). 
+
+
+
+
 
 ----
 

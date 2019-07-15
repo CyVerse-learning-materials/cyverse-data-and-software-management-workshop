@@ -127,6 +127,7 @@ how they use software in their research - from simple scripts developed in-house
 to building robust, reproducible, and scalable, pipelines.
 
 **Learning Outcomes**
+
 At this workshop learners will:
 
 - Be able to identify common reproducibility challenges for commonly used
@@ -165,10 +166,10 @@ Agendas
       science (*lecture*)
     - Brief overview of `CyVerse <http://www.cyverse.org>`_
       (publicly funded infrastructure project)
-      and learn how it is being adopted internationality (CyVerse UK,
-      CyVerse Austria, CyVerse Australia ), how they can make free
-      use of it, and how these and other technologies are relevant to European
-      bioinformatics and infrastructure projects (e.g. `ELIXIR <https://elixir-europe.org/>`_ and `EOSC <https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud>`_).
+      and how it is being adopted internationality (CyVerse UK/Austria/Australia),
+      how you can make free use of it, and how these and other technologies are
+      relevant to European bioinformatics and infrastructure projects
+      (e.g. `ELIXIR <https://elixir-europe.org/>`_ and `EOSC <https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud>`_).
       We will also introduce common tools and related vocabulary for
       computing in life science research.
   * - 14:30
@@ -191,7 +192,7 @@ Agendas
       selected and implemented for their own datasets.
   * - 16:15
     - Managing data with Open Refine (*lab*)
-    - Using the open-source `Open Refine <http://openrefine.org/>`_ software,
+    - Using the free and open-source software `Open Refine <http://openrefine.org/>`_,
       participants will explore how metadata can be organized and validated to
       comply with their choice of metadata standards.
   * - 18:00
@@ -208,7 +209,7 @@ Agendas
     - Objectives and Activities
   * - 8:30
     - Associating data with Metadata (*lab*)
-    - Users will be guided through associating metadata with Data on the CyVerse
+    - Users will be guided through associating metadata with data on the CyVerse
       platform using its graphical interface to `iRODS <https://irods.org/>`_
       (a data storage technology used by several international repositories)
   * - 9:00
@@ -235,11 +236,11 @@ Agendas
   * - 11:30
     - Summary and Road mapping (*lab and interactive discussion*)
     - Participants will work in small teams to develop learning roadmaps to be
-      implemented post-workshop (What will they change? what questions do they
-      still have? what technologies would the like more information on? etc.).
-      These will be shared and collected and the instructional team will leave
-      additional feedback and suggestions on the maps during and shortly after
-      the workshop.
+      implemented post-workshop (How will the workshop change what they are now
+      doing? What questions do they still have? What technologies would the like
+      more information on? etc.). These will be shared and collected and the
+      instructional team will leave additional feedback and suggestions on the
+      maps during and shortly after the workshop.
   * - 13:00
     - Finish (End of Workshop)
     - Lunch available (purchase ticket at Eventbrite link)
@@ -264,10 +265,9 @@ Agendas
     - Workshop overview and Introduction to CyVerse - Technology for Open Science (*lecture*)
     - Brief overview of `CyVerse`_
       (publicly funded infrastructure project)
-      and learn how it is being adopted internationality (CyVerse UK,
-      CyVerse Austria, CyVerse Australia ), how they can make free
-      use of it, and how these and other technologies are relevant to European
-      bioinformatics and infrastructure projects (e.g. `ELIXIR`_ and `EOSC`_).
+      and how it is being adopted internationality (CyVerse UK/Austria/Australia),
+      how you can make free use of it, and how these and other technologies are
+      relevant to European bioinformatics and infrastructure projects (e.g. `ELIXIR`_ and `EOSC`_).
       We will also introduce common tools and related vocabulary for
       computing in life science research.
   * - 14:30
@@ -279,8 +279,8 @@ Agendas
     - Github for software management and reproducibility - a brief introduction
       to Github (*lab*)
     - Participants will get an brief introduction to repository creation in `Github <https://github.com/>`_
-      and learn the value of developing code that is open from day one. Will
-      introduce choices for licensing and recommendations for fostering and
+      and learn the value of developing code that is open from day one.
+      Introduction of licensing and recommendations for fostering and
       managing contributions.
   * - 15:30
     - Break
@@ -309,8 +309,8 @@ Agendas
     - Objectives and Activities
   * - 8:30
     - Customizing containers (*lab*)
-    - Participants will cover the basics of using Github effectively, including
-      making use of Github and Dockerhub to manage Dockerfiles and containers.
+    - Participants will cover the basics of using Github effectively with containers,
+      including making use of Github and Dockerhub to manage Dockerfiles.
   * - 10:30
     - Break
     -
@@ -321,11 +321,11 @@ Agendas
   * - 13:00
     - Summary and Road mapping (*lab and interactive discussion*)
     - Participants will work in small teams to develop learning roadmaps to be
-      implemented post-workshop (What will they change? what questions do they
-      still have? what technologies would the like more information on? etc.).
-      These will be shared and collected and the instructional team will leave
-      additional feedback and suggestions on the maps during and shortly after
-      the workshop.
+      implemented post-workshop (How will the workshop change what they are now
+      doing? What questions do they still have? What technologies would the like
+      more information on? etc.). These will be shared and collected and the
+      instructional team will leave additional feedback and suggestions on the
+      maps during and shortly after the workshop.
   * - 14:00
     - Finish (End of Workshop)
     -
@@ -374,6 +374,9 @@ Organizers, Content Developers, and Instructional Team, Rome 2019
 - **Jason Williams**
 
   Email (`williams@cshl.edu <mailto:williams@cshl.edu>`_)
+
+  \*(Contact Jason for all workshop related questions)
+
   Assistant Director, External Collaborations
   Cold Spring Harbor Laboratory, DNA Learning Center
   CyVerse Education Outreach and Training Lead

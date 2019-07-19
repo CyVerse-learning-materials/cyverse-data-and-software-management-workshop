@@ -388,9 +388,9 @@ Organizers, Content Developers, and Instructional Team, Rome 2019
 
 - **Fotis Psomopoulos**
 
-  Principal Investigator C' - Assistant Professor level
-  INAB - Institute of Applied Biosciences
-  CERTH - Center for Research and Technology Hellas
+  Research Assistant Professor
+  Institute of Applied Biosciences (INAB)
+  Center for Research and Technology Hellas (CERTH)
 
 - **Mateusz Kuzak**
 

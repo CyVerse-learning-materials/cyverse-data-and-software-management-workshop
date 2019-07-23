@@ -246,7 +246,8 @@ Agendas
 
 ----
 
-**13:30 October 3rd - Lunch will be available at the Workshop Venue**: Eventbrite ticket purchase required.
+**13:30 October 3rd - Lunch will be available at the Workshop Venue**:
+Eventbrite ticket purchase required.
 
 ----
 
@@ -284,7 +285,7 @@ Agendas
       and learn the value of developing code that is open from day one.
       Introduction of licensing and recommendations for fostering and
       managing contributions.
-  * - 17:45
+  * - 17:30
     - Containers for Computing (*lab*)
     - Participants will be introduced to `Docker <https://www.docker.com/>`_ as a solution for software
       reproducibility, portability, and management. We will cover the basics of
@@ -304,17 +305,19 @@ Agendas
     - Topic
     - Objectives and Activities
   * - 9:00
-    - Customizing containers (*lab*)
-    - Participants will cover the basics of using Github effectively with containers,
-      including making use of Github and Dockerhub to manage Dockerfiles.
+    - Managing applications in Notebooks (*lab*)
+    - Participants will cover the make use use of Docker to manage applications
+      to deploy applications and use `Jupyter Notebooks <https://jupyter.org/>`_
+      to interface with applications.
   * - 10:30
     - Break
     -
   * - 11:15
-    - Deploying Dockerized applications (*lab*)
-    - Participants will take applications developed in the workshop and deploy
-      as usable applications in the CyVerse environment.
-  * - 13:00
+    - Deploying applications (*lab*)
+    - Participants will take applications developed in the workshop and see how
+      they can be deployed as usable applications in CyVerse as well as
+      `My Binder <https://gke.mybinder.org/>`_.
+  * - 13:30
     - Summary and Road mapping (*lab and interactive discussion*)
     - Participants will work in small teams to develop learning roadmaps to be
       implemented post-workshop (How will the workshop change what they are now

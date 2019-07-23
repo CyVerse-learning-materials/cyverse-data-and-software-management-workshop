@@ -2,14 +2,16 @@
 
 |CyVerse logo|
 
-Data Management and Software Reproducibility Workshops
----------------------------------------------------------
+Foundational Open Science Skills: Practical Data and Software Skills for Reproducible Research
+------------------------------------------------------------------------------------------------
 
 Working with “Big data” is challenging for most researchers. These workshops
 introduce free  open-source approaches that reduce these challenges and deliver
 research that is more impactful, open, and reproducible. Technologies covered
 feature solutions developed by publicly funded cyberinfrastructure developed in
 the US (CyVerse - www.cyverse.org) and Europe (CyVerse UK, ELIXIR, and others).
+Most content will be platform agnostic, giving attendees with skills they
+can apply no matter what computing platforms they use.
 
 
 ----
@@ -23,15 +25,16 @@ Upcoming Workshops
 
     **Host** University of Arkansas
 
-    **Location**: University of Arkansas Rome Center: Palazzo Taverna, Via di Monte Giordano,
-    36 - 00186 Rome Italy.
+    **Location**: University of Arkansas Rome Center: Palazzo Taverna, Via di
+    Monte Giordano, 36 - 00186 Rome Italy.
 
     **Dates**:
 
-    Each workshop will run from afternoon to afternoon (see *Draft Agenda* below for times)
+    Each workshop will run from afternoon to afternoon (see *Draft Agenda* below
+    for times)
 
-    - *Data Management*: October 2nd - October 3rd
-    - *Software Reproducibility*: October 3rd - October 4th
+    - *Practical Data Skills Workshop*: October 2nd - October 3rd
+    - *Practical Software Skills Workshop*: October 3rd - October 4th
 
     **Costs/Funding/Registration**:
 
@@ -81,18 +84,13 @@ Upcoming Workshops
     may only be available until September 25th, 2019 (1 week prior to workshop
     start).
 
-
-
-
-
 ----
-
 
 Workshop Audiences, Learning Outcomes, and Prerequisites
 ```````````````````````````````````````````````````````````
 
-Data Management Workshop
-#########################
+*Practical Data Skills Workshop*
+#################################
 
 **Audience**
 Investigators and researchers working in all areas of the life sciences.
@@ -117,7 +115,7 @@ For computer labs, basic knowledge in working with spreadsheets (e.g. Excel)
 is helpful. Attendees must bring their own Wi-Fi enabled laptop.
 
 
-*Software Reproducibility Workshop*
+*Practical Software Skills Workshop*
 ######################################
 
 **Audience**
@@ -133,7 +131,8 @@ At this workshop learners will:
 - Be able to identify common reproducibility challenges for commonly used
   software
 - Follow a series of case studies that introduce reproducibility technologies
-  like version control (e.g. git, GitHub) and containerization (Docker)
+  like version control (e.g. git, GitHub), containerization (Docker),
+  and Notebooks (Jupyter).
 - Be able to deploy reproducible applications using Binder and CyVerse
 - Understand (and be able to create) a software management plan that benefits
   their lab and their research
@@ -151,7 +150,7 @@ Agendas
 
 **Draft Agenda (subject to change)**
 
-*Data Management*: October 2nd - October 3rd
+*Practical Data Skills Workshop*: October 2nd - October 3rd
 
 **October 2nd**
 
@@ -207,33 +206,33 @@ Agendas
   * - Time
     - Topic
     - Objectives and Activities
-  * - 8:30
+  * - 9:00
     - Associating data with Metadata (*lab*)
     - Users will be guided through associating metadata with data on the CyVerse
       platform using its graphical interface to `iRODS <https://irods.org/>`_
       (a data storage technology used by several international repositories)
-  * - 9:00
+  * - 9:30
     - Making data available through repositories (*lecture*)
     - We will introduce popular repositories and the typical
       requirements for publication of datasets including choices of licensing.
-  * - 9:30
+  * - 10:00
     - CyVerse Data Commons publication model (*lab*)
     - Participants will be guided through making data available and citable
       (DOI issuing) on the CyVerse data store. We will also demonstrate
       publication directly from CyVerse to NCBI and also ENA using `COPO <https://copo-project.org/>`_.
-  * - 10:00
-    - Increasing the value of your work with pre-prints and getting credit with
-      data licensing (*lecture*)
-    - We will discuss the evidence and some available solutions for making use
-      of pre-prints and solutions for choosing a data license.
   * - 10:30
     - Break
     -
   * - 10:45
+    - Increasing the value of your work with pre-prints and getting credit with
+      data licensing (*lecture*)
+    - We will discuss the evidence and some available solutions for making use
+      of pre-prints and solutions for choosing a data license.
+  * - 11:15
     - Making a data management plan work for you (*lab and interactive discussion*)
     - Participants will start to summarize lessons learned by completing a
       Data Stewardship wizard and generating an updated data management plan
-  * - 11:30
+  * - 11:45
     - Summary and Road mapping (*lab and interactive discussion*)
     - Participants will work in small teams to develop learning roadmaps to be
       implemented post-workshop (How will the workshop change what they are now
@@ -241,17 +240,17 @@ Agendas
       more information on? etc.). These will be shared and collected and the
       instructional team will leave additional feedback and suggestions on the
       maps during and shortly after the workshop.
-  * - 13:00
+  * - 13:30
     - Finish (End of Workshop)
     - Lunch available (purchase ticket at Eventbrite link)
 
 ----
 
-**13:00 October 3rd - Lunch will be available at the Workshop Venue**: Eventbrite ticket purchase required.
+**13:30 October 3rd - Lunch will be available at the Workshop Venue**: Eventbrite ticket purchase required.
 
 ----
 
-*Software Reproducibility*: October 3rd - October 4th
+*Practical Software Skills Workshop*: October 3rd - October 4th
 
 **October 3rd**
 
@@ -261,7 +260,7 @@ Agendas
   * - Time
     - Topic
     - Objectives and Activities
-  * - 14:00
+  * - 14:30
     - Workshop overview and Introduction to CyVerse - Technology for Open Science (*lecture*)
     - Brief overview of `CyVerse`_
       (publicly funded infrastructure project)
@@ -270,31 +269,28 @@ Agendas
       relevant to European bioinformatics and infrastructure projects (e.g. `ELIXIR`_ and `EOSC`_).
       We will also introduce common tools and related vocabulary for
       computing in life science research.
-  * - 14:30
+  * - 15:00
     - 4OSS - Introduction to Open Source Software Principles (*lecture*)
     - Participants will have learn about the `4OSS principles <https://softdev4research.github.io/recommendations/>`_
       and how they support reproducible, high-impact science through sustainable
       software and computing choices.
-  * - 15:00
+  * - 15:30
+    - Break
+    -
+  * - 15:45
     - Github for software management and reproducibility - a brief introduction
       to Github (*lab*)
     - Participants will get an brief introduction to repository creation in `Github <https://github.com/>`_
       and learn the value of developing code that is open from day one.
       Introduction of licensing and recommendations for fostering and
       managing contributions.
-  * - 15:30
-    - Break
-    -
-  * - 15:45
-    - Github Lab - Continued
-    -
-  * - 16:45
+  * - 17:45
     - Containers for Computing (*lab*)
     - Participants will be introduced to `Docker <https://www.docker.com/>`_ as a solution for software
       reproducibility, portability, and management. We will cover the basics of
       Docker and describe the process of pulling and running containers,
       including from popular repositories such as docker hub and biocontainers.
-  * - 18:00
+  * - 18:30
     - End of Day One
     -
 
@@ -307,14 +303,14 @@ Agendas
   * - Time
     - Topic
     - Objectives and Activities
-  * - 8:30
+  * - 9:00
     - Customizing containers (*lab*)
     - Participants will cover the basics of using Github effectively with containers,
       including making use of Github and Dockerhub to manage Dockerfiles.
   * - 10:30
     - Break
     -
-  * - 10:45
+  * - 11:15
     - Deploying Dockerized applications (*lab*)
     - Participants will take applications developed in the workshop and deploy
       as usable applications in the CyVerse environment.
@@ -326,7 +322,7 @@ Agendas
       more information on? etc.). These will be shared and collected and the
       instructional team will leave additional feedback and suggestions on the
       maps during and shortly after the workshop.
-  * - 14:00
+  * - 14:30
     - Finish (End of Workshop)
     -
 

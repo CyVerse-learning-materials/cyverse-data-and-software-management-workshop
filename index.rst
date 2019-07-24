@@ -2,7 +2,9 @@
 
 |CyVerse logo|
 
-Foundational Open Science Skills: Practical Data and Software Skills for Reproducible Research
+Foundational Open Science Skills Workshop Series:
+
+Practical Data and Software Skills for Reproducible Research
 ------------------------------------------------------------------------------------------------
 
 Working with “Big data” is challenging for most researchers. These workshops
@@ -23,7 +25,7 @@ Upcoming Workshops
 
     **Rome, Italy - October 2019**
 
-    **Host** University of Arkansas
+    **Host**: University of Arkansas
 
     **Location**: University of Arkansas Rome Center: Palazzo Taverna, Via di
     Monte Giordano, 36 - 00186 Rome Italy.
@@ -45,7 +47,7 @@ Upcoming Workshops
     There will be an optional luncheon between the workshops on Thursday October
     4 at a cost of $20 US.
 
-    **Workshop Registration**
+    **Workshop Registration**:
 
     .. raw:: html
 
@@ -93,6 +95,7 @@ Workshop Audiences, Learning Outcomes, and Prerequisites
 #################################
 
 **Audience**
+
 Investigators and researchers working in all areas of the life sciences.
 Workshop delivery style will benefit those looking for information on and making
 decisions about these technologies (e.g. principal investigators, grant writers,
@@ -109,7 +112,8 @@ At this workshop learners will:
 - Be able to critique data management plans and create (or refine) a custom plan
   that benefits their lab and their research
 
-**Prerequisites**:
+**Prerequisites**
+
 This workshop is suitable for a non-technical audience.
 For computer labs, basic knowledge in working with spreadsheets (e.g. Excel)
 is helpful. Attendees must bring their own Wi-Fi enabled laptop.
@@ -119,6 +123,7 @@ is helpful. Attendees must bring their own Wi-Fi enabled laptop.
 ######################################
 
 **Audience**
+
 Investigators and researchers working in all areas of the life sciences.
 Workshop delivery style will benefit those looking for information on improving
 how they use software in their research - from simple scripts developed in-house
@@ -132,12 +137,13 @@ At this workshop learners will:
   software
 - Follow a series of case studies that introduce reproducibility technologies
   like version control (e.g. git, GitHub), containerization (Docker),
-  and Notebooks (Jupyter).
-- Be able to deploy reproducible applications using Binder and CyVerse
+  and notebooks (Jupyter).
+- Be able to deploy applications for reproducible analysis using Binder and CyVerse
 - Understand (and be able to create) a software management plan that benefits
   their lab and their research
 
 **Prerequisites**
+
 This workshop will have several labs involving use of the
 command line (Linux/Unix). Some basic command line experience is strongly
 suggested. Attendees must bring their own Wi-Fi enabled laptop.
@@ -307,7 +313,7 @@ Eventbrite ticket purchase required.
   * - 9:00
     - Managing applications in Notebooks (*lab*)
     - Participants will cover the make use use of Docker to manage applications
-      to deploy applications and use `Jupyter Notebooks <https://jupyter.org/>`_
+      to deploy applications and use `Jupyter notebooks <https://jupyter.org/>`_
       to interface with applications.
   * - 10:30
     - Break

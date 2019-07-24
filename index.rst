@@ -30,17 +30,13 @@ Upcoming Workshops
     **Location**: University of Arkansas Rome Center: Palazzo Taverna, Via di
     Monte Giordano, 36 - 00186 Rome Italy.
 
-    **Dates**:
-
-    Each workshop will run from afternoon to afternoon (see *Draft Agenda* below
+    **Dates**: Each workshop will run from afternoon to afternoon (see *Draft Agenda* below
     for times)
 
     - *Practical Data Skills Workshop*: October 2nd - October 3rd
     - *Practical Software Skills Workshop*: October 3rd - October 4th
 
-    **Costs/Funding/Registration**:
-
-    A fee of $40 US for each workshop ($80 US total if attending both) covers
+    **Costs/Funding/Registration**: A fee of $40 US for each workshop ($80 US total if attending both) covers
     facility setup and administrative costs, as well as AM and PM refreshment
     breaks. Participants are responsible for all costs associated with their
     attendance (travel, lodging, meals, etc.). The workshop fee will cover

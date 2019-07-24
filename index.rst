@@ -344,7 +344,7 @@ Questions
 ``````````
 
 For workshop content questions, please email Jason Williams
-(Cold Spring Harbor Laboratory, NY). Williams@cshl.edu. If you are
+(Cold Spring Harbor Laboratory, NY). Williams@cshl.edu. 
 
 Content/Instruction Contributions
 `````````````````````````````````````

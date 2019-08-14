@@ -283,7 +283,7 @@ Eventbrite ticket purchase required.
   * - 15:45
     - Github for software management and reproducibility - a brief introduction
       to Github (*lab*)
-    - Participants will get an brief introduction to repository creation in `Github <https://github.com/>`_
+    - Participants will get a brief introduction to repository creation in `Github <https://github.com/>`_
       and learn the value of developing code that is open from day one.
       Introduction of licensing and recommendations for fostering and
       managing contributions.

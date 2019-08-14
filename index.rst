@@ -274,7 +274,7 @@ Eventbrite ticket purchase required.
       computing in life science research.
   * - 15:00
     - 4OSS - Introduction to Open Source Software Principles (*lecture*)
-    - Participants will have learn about the `4OSS principles <https://softdev4research.github.io/recommendations/>`_
+    - Participants will learn about the `4OSS principles <https://softdev4research.github.io/recommendations/>`_
       and how they support reproducible, high-impact science through sustainable
       software and computing choices.
   * - 15:30
@@ -344,7 +344,7 @@ Questions
 ``````````
 
 For workshop content questions, please email Jason Williams
-(Cold Spring Harbor Laboratory, NY). Williams@cshl.edu. 
+(Cold Spring Harbor Laboratory, NY). Williams@cshl.edu.
 
 Content/Instruction Contributions
 `````````````````````````````````````

@@ -308,7 +308,7 @@ Eventbrite ticket purchase required.
     - Objectives and Activities
   * - 9:00
     - Managing applications in Notebooks (*lab*)
-    - Participants will cover the make use use of Docker to manage applications
+    - Participants will cover the use of Docker to manage applications
       to deploy applications and use `Jupyter notebooks <https://jupyter.org/>`_
       to interface with applications.
   * - 10:30

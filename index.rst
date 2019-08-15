@@ -7,13 +7,16 @@ Foundational Open Science Skills Workshop Series:
 Practical Data and Software Skills for Reproducible Research
 ------------------------------------------------------------------------------------------------
 
+**Two introductory workshops on the skills and technologies you need for
+publishable and reproducible data-driven science**
+
 Working with “Big data” is challenging for most researchers. These workshops
-introduce free  open-source approaches that reduce these challenges and deliver
+introduce free open-source approaches that reduce these challenges and deliver
 research that is more impactful, open, and reproducible. Technologies covered
-feature solutions developed by publicly funded cyberinfrastructure developed in
-the US (CyVerse - www.cyverse.org) and Europe (CyVerse UK, ELIXIR, and others).
-Most content will be platform agnostic, giving attendees with skills they
-can apply no matter what computing platforms they use.
+feature solutions developed by publicly funded cyberinfrastructure developed
+in the US (CyVerse - www.cyverse.org) and Europe (CyVerse UK, ELIXIR, EOSC, and
+others). Most content will be platform agnostic, equipping attendees with skills
+they can apply no matter what computing platforms they use.
 
 
 ----
@@ -36,10 +39,10 @@ Upcoming Workshops
     - *Practical Data Skills Workshop*: October 2nd - October 3rd
     - *Practical Software Skills Workshop*: October 3rd - October 4th
 
-    **Costs/Funding/Registration**: A fee of $40 US for each workshop ($80 US total if attending both) covers
-    facility setup and administrative costs, as well as AM and PM refreshment
-    breaks. Participants are responsible for all costs associated with their
-    attendance (travel, lodging, meals, etc.). The workshop fee will cover
+    **Costs/Funding/Registration**: A fee of $40 US for each workshop ($80 US
+    total if attending both) covers facility setup and administrative costs, as
+    well as AM and PM refreshment breaks. Participants are responsible for all
+    costs associated with their attendance (travel, lodging, meals, etc.).
     There will be an optional luncheon between the workshops on Thursday October
     4 at a cost of $20 US.
 
@@ -101,12 +104,10 @@ funders/grant officers, etc.) but who may not actually use them day-to-day.
 
 At this workshop learners will:
 
-- Be able to identify common challenges for large biological datasets
-- Understand the value of  FAIR and other open science principles
-- Understand how to apply free technologies for data sharing, metadata
-  annotation, and repository hosting to their own use cases
-- Be able to critique data management plans and create (or refine) a custom plan
-  that benefits their lab and their research
+- Identify common challenges for large/complex biological datasets
+- Understand the value and application of FAIR/Open Science principles
+- Gain skills for using free data sharing and data management technologies
+- Create (or refine) a custom data management plan for their research
 
 **Prerequisites**
 
@@ -129,14 +130,12 @@ to building robust, reproducible, and scalable, pipelines.
 
 At this workshop learners will:
 
-- Be able to identify common reproducibility challenges for commonly used
-  software
-- Follow a series of case studies that introduce reproducibility technologies
-  like version control (e.g. git, GitHub), containerization (Docker),
-  and notebooks (Jupyter).
-- Be able to deploy applications for reproducible analysis using Binder and CyVerse
-- Understand (and be able to create) a software management plan that benefits
-  their lab and their research
+- Identify common software reproducibility challenges
+- Gain skills for using free reproducibility technologies like version control
+  (git/GitHub), containerization (Docker), and notebooks (Jupyter)
+- Learn how to deploy applications for reproducible analysis using MyBinder and
+  CyVerse
+- Create (or refine) a custom software management plan for your research
 
 **Prerequisites**
 

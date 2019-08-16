@@ -10,19 +10,26 @@ Practical Data and Software Skills for Reproducible Research
 **Two introductory workshops on the skills and technologies you need for
 publishable and reproducible data-driven science**
 
-Working with “Big data” is challenging for most researchers. These workshops
-introduce free open-source approaches that reduce these challenges and deliver
-research that is more impactful, open, and reproducible. Technologies covered
-feature solutions developed by publicly funded cyberinfrastructure developed
-in the US (CyVerse - www.cyverse.org) and Europe (CyVerse UK, ELIXIR, EOSC, and
-others). Most content will be platform agnostic, equipping attendees with skills
-they can apply no matter what computing platforms they use.
+Working with “Big data” is challenging for most researchers and the barriers to
+publication can be difficult. These workshops introduce free open-source
+approaches that reduce these challenges and help you deliver research that is more
+impactful, open, and reproducible.
+
+Training will focus on solutions developed by publicly funded cyberinfrastructure
+developed in the US (CyVerse) and Europe (CyVerse UK, ELIXIR, EOSC, and others).
+Lessons learned will prepare you with skills you can apply no matter which
+computing platforms you use.
+
+
+
 
 
 ----
 
 Upcoming Workshops
 ~~~~~~~~~~~~~~~~~~~~~
+
+  **Start this semester with the skills you need – from research and data management to publication!**
 
   .. admonition:: Workshop Location
 
@@ -45,6 +52,8 @@ Upcoming Workshops
     costs associated with their attendance (travel, lodging, meals, etc.).
     There will be an optional luncheon between the workshops on Thursday October
     4 at a cost of $20 US.
+
+    **Flyer**: `Download flyer <www.bit.ly/foss-rome-19-flyer>`_
 
     **Workshop Registration**:
 
@@ -394,8 +403,7 @@ Organizers, Content Developers, and Instructional Team, Rome 2019
 
 - **Mateusz Kuzak**
 
-  Scientific Community Manager
-  Dutch Techcentre for Life Sciences
+  Netherlands eScience Center
 
 - **Ramona L. Walls**
 

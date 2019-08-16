@@ -53,7 +53,7 @@ Upcoming Workshops
     There will be an optional luncheon between the workshops on Thursday October
     4 at a cost of $20 US.
 
-    **Flyer**: `Download flyer <www.bit.ly/foss-rome-19-flyer>`_
+    **Flyer**: `Download flyer <http://bit.ly/foss-rome-19-flyer>`_
 
     **Workshop Registration**:
 

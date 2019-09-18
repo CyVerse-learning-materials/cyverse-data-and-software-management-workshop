@@ -33,7 +33,7 @@ Upcoming Workshops
 
   .. admonition:: Workshop Location
 
-    **Rome, Italy - October 2019**
+    **Rome, Italy - October 2019 (cancelled)**
 
     **Host**: University of Arkansas
 
@@ -53,32 +53,14 @@ Upcoming Workshops
     There will be an optional luncheon between the workshops on Thursday October
     4 at a cost of $20 US.
 
-    **Flyer**: `Download flyer <http://bit.ly/foss-rome-19-flyer-2>`_
+    **Flyer**:
 
     **Workshop Registration**:
 
-    .. raw:: html
+    **This Workshop has been cancelled**
 
-     <div id="eventbrite-widget-container-64003008722"></div>
-     <script src="eb_widgets.js"></script>
-
-     <script type="text/javascript">
-         var exampleCallback = function() {
-             console.log('Order complete!');
-         };
-
-         window.EBWidgets.createWidget({
-             // Required
-             widgetType: 'checkout',
-             eventId: '64003008722',
-             iframeContainerId: 'eventbrite-widget-container-64003008722',
-
-             // Optional
-             iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-             onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-         });
-     </script>
-     </div>
+    All attendees should have received refunds. Contact williams@cshl.edu
+    for questions or problems.
 
 
     **Cancellations**
